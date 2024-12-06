@@ -65,7 +65,7 @@ The `CustomerModuleFunctionality` class contains the setup, test, and teardown m
 
 ### Contact
 
-For any issues or suggestions, feel free to open an issue or submit a pull request. You can also reach out to the project maintainer at `partharakshit5653@example.com`.
+For any issues or suggestions, feel free to open an issue or submit a pull request. You can also reach out to the project maintainer at `aadarshranjan8434@example.com`.
 
 ---
 
