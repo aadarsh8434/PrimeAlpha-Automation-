@@ -70,3 +70,4 @@ For any issues or suggestions, feel free to open an issue or submit a pull reque
 ---
 
 This README provides a comprehensive overview of the project, setup instructions, and details on how to run and contribute to the project.
+![primeautomation](https://github.com/user-attachments/assets/dcfbde1a-6603-4f15-b1d6-dbc7936c1f9c)
